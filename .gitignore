@@ -1,0 +1,19 @@
+# API 키 등 민감 정보가 들어가는 설정 파일
+config.js
+
+# OS 자동 생성 파일
+.DS_Store
+Thumbs.db
+
+# 에디터/IDE
+.vscode/
+.idea/
+*.swp
+
+# 의존성/빌드 산출물
+node_modules/
+dist/
+build/
+
+# 로그
+*.log
